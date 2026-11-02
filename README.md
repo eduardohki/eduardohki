@@ -14,4 +14,4 @@ I work hands-on from inside teams, from architecture and code to how software is
 
 Organizer of the [Elixir, Erlang & Gleam Munich Meetup](https://www.meetup.com/elixir-munich/) and the [FP Stammtisch Munich](https://luma.com/fp-munich).
 
-More about my work, talks and experience on [https://runlevel0.me](https://runlevel0.me).
+More about my work, talks and experience at [runlevel0.me](https://runlevel0.me).
